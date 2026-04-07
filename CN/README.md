@@ -4,10 +4,10 @@
 This project analyzes and compares the performance of different **TCP congestion control algorithms** using the NS-3 network simulator.
 
 The TCP variants studied include:
-- 📊 TcpNewReno  
-- ⚡ TcpCubic  
-- 🧠 TcpVegas  
-- 🚀 TcpBbr  
+-  TcpNewReno  
+-  TcpCubic  
+-  TcpVegas  
+-  TcpBbr  
 
 The system evaluates their performance based on key network metrics such as throughput, delay, and packet loss.
 
